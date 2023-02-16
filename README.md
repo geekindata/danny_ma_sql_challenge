@@ -6,7 +6,6 @@ This repository showcases Danny Ma's 8-Week SQL Challenge, featuring a new case 
 *About
 *Installation
 *Usage
-*Folder Structure
 *Contributing
 
 <h2> About </h2>
@@ -23,33 +22,6 @@ To use this repository, navigate to the folder of the specific week you want to 
 3. isqlite3.py (a Load extension file to run SQL code).
 4. An empty Jupyter notebook for you to replicate/practice.
 Use these resources to explore the case studies, replicate the solutions, and practice your SQL skills.
-
-<h2> Folder Structure </h2>
-The folder structure of the repository is organized by week. Each week folder contains the database and the solutions for the respective case study. The folder structure is as follows:
-
-danny-ma-8week-sql-challenge/
-danny-ma-8week-sql-challenge/
-├── week 1/
-│   ├── dataset/
-│   ├── isqlie3.py
-│   ├── README.md
-│   ├── solutions/
-│   ├── empty_jupyter_notebook.ipynb
-├── week 2/
-│   ├── dataset/
-│   ├── isqlie3.py
-│   ├── README.md
-│   ├── solutions/
-│   ├── empty_jupyter_notebook.ipynb
-.
-.
-.
-└── week 8/
-    ├── dataset/
-    ├── isqlie3.py
-    ├── README.md
-    ├── solutions/
-    ├── empty_jupyter_notebook.ipynb
 
 <h2> Contributing </h2>
 Contributions to this repository are welcome. To contribute, please fork the repository, make your changes, and submit a pull request.
