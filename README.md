@@ -28,24 +28,28 @@ Use these resources to explore the case studies, replicate the solutions, and pr
 The folder structure of the repository is organized by week. Each week folder contains the database and the solutions for the respective case study. The folder structure is as follows:
 
 danny-ma-8week-sql-challenge/
+danny-ma-8week-sql-challenge/
 ├── week 1/
 │   ├── dataset/
-│   ├── isqlite3.py
-│   ├── week 1.ipynb/
-│   ├── week 1_template.ipynb
+│   ├── isqlie3.py
+│   ├── README.md
+│   ├── solutions/
+│   ├── empty_jupyter_notebook.ipynb
 ├── week 2/
 │   ├── dataset/
-│   ├── isqlite3.py
-│   ├── week 2.ipynb/
-│   ├── week 2_template.ipynb
+│   ├── isqlie3.py
+│   ├── README.md
+│   ├── solutions/
+│   ├── empty_jupyter_notebook.ipynb
 .
 .
 .
 └── week 8/
     ├── dataset/
-    ├── isqlite3.py
-    ├── week 3.ipynb/
-    ├── week 3_template.ipynb
+    ├── isqlie3.py
+    ├── README.md
+    ├── solutions/
+    ├── empty_jupyter_notebook.ipynb
 
 <h2> Contributing </h2>
 Contributions to this repository are welcome. To contribute, please fork the repository, make your changes, and submit a pull request.
